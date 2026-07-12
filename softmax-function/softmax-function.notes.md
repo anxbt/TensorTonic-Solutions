@@ -1,0 +1,1 @@
+we converted to "np.asarray" becuase it was treating it as an python list and we cannot use ndim on list
